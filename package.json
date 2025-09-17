@@ -1,0 +1,12 @@
+{
+  "name": "@ernest-cll/npm-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Ernest CLL",
+  "license": "ISC",
+  "description": "Just a PoC project do demonstrate CRE TS Javy Plugin works as an npm package",
+  "dependencies": {
+    "@ernest-cll/test-package": "1.0.10"
+  }
+}

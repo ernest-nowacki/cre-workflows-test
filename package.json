@@ -7,6 +7,6 @@
   "license": "ISC",
   "description": "Just a PoC project do demonstrate CRE TS Javy Plugin works as an npm package",
   "dependencies": {
-    "@ernest-cll/test-package": "1.0.10"
+    "@ernest-cll/cre-sdk-test": "0.0.3"
   }
 }

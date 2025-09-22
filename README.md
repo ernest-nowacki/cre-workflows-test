@@ -23,11 +23,11 @@ bunx cre-setup
 Then you are ready touse the CRE TS Javy Plugin to compile your workflows to WASM. Copy any JS workflow file from `cre-sdk/dist/workflows` and run the following command:
 
 ```bash
-bunx cre-compile <input.js> <output.wasm>
+bunx cre-compile <input.ts> <output.wasm>
 ```
 
 Example:
 
 ```bash
-bun cre-compile src/hello-world.js dist/hello-world.wasm
+bun cre-compile src/hello-world.ts dist/hello-world.wasm
 ```
